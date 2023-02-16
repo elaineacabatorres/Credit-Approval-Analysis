@@ -1,1 +1,3 @@
 # Credit-Approval-Analysis
+Credit score cards are a common risk control method in the financial industry. The industry uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk. As such, in this scenario, our bank HereIsTheMoney would like to find out what are the main factors that allow them to approve or deny a credit card to a client, and ultimately have an automated logic to identify these cases before they come to light, thus saving costs as well as increasing its reputation at the same time.
+
